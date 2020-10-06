@@ -3,7 +3,6 @@
 
 ## I am a Teacher and a Full Stack Developer, that builds scalable application
 - 🔭 I’m currently working on a zomato clone project!
-- 🔭 I’m currently working on a bank system app!
 - 🌱 I’m currently learning everything WebRTC
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
