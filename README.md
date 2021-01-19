@@ -45,3 +45,6 @@
 ---
 
 <img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonymj76&show_icons=true&count_private=true&theme=dark" />
+![Anthony's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danvixent&theme=tokyonight&show_icons=true)
+
+<!--![Codewars](https://www.codewars.com/users/danvixent/badges/large)
