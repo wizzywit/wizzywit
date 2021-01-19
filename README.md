@@ -40,9 +40,10 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/mvdan/sh)
 
 ---
 
-<img align="left" alt"Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymj76&theme=dark&show_icons=true" />
+
 <img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonymj76&show_icons=true&count_private=true&theme=dark" />
+<img align="left" alt"Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymj76&theme=dark&show_icons=true" />
