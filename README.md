@@ -44,5 +44,5 @@
 
 ---
 
-<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonymj76&show_icons=true&count_private=true&theme=dark" />
+<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonymj76&show_icons=true&count_private=true&theme=dark&line_height=40" />
 <img align="left" alt"Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymj76&theme=dark&show_icons=true" />
