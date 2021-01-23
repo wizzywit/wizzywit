@@ -46,5 +46,5 @@
 
 ### Stats:
 
-<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wizzywit&show_icons=true&count_private=true&theme=dark" />
-<img align="left" alt"Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizzywit&theme=dark&show_icons=true" />
+<img align="left" alt="Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wizzywit&show_icons=true&count_private=true&theme=dark" />
+<img align="left" alt"Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizzywit&theme=dark&show_icons=true" />
