@@ -1,4 +1,4 @@
-### Hi there 👋, am [Wisdom Praise](https://wizzywit.github.io)
+### Hi there 👋,I am [Wisdom Praise](https://wizzywit.github.io)
 
 
 ## I am a Full Stack Developer, a team player and a colaborator, that builds scalable application
