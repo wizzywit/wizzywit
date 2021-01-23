@@ -1,19 +1,19 @@
-### Hi there 👋, am [Anthony Anonde](https://anthony.anonde.dev)
+### Hi there 👋, am [Wisdom Praise](https://wizzywit.github.io)
 
 
-## I am a Teacher and a Full Stack Developer, that builds scalable application
-- 🔭 I’m currently working on a zomato clone project!
-- 🌱 I’m currently learning everything WebRTC
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess hit me up anytime i will play with you
+## I am a Full Stack Developer, a team player and a colaborator, that builds scalable application
+- 🔭 I’m currently working on mythra project!
+- 🌱 I’m currently learning everything Rust
+- 👯 I’m looking to collaborate with other Rustaceans
+- 🥅 2021 Goals: Contribute more to Open Source projects, and begin my devOps journey 
+- ⚡ Fun fact: I love to play pes and fifa hit me up anytime i will play with you
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](anthony.anonde.dev)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Dtonyj)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anthony-anonde-0bb8a0105/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/MEYORTJ)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Wizzywit)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wisdom-praise-b-eng-2060b7166/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wizzywit968)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
-[<img align="left" alt="go" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](https://golang.org/)
+[<img align="left" alt="go" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](https://www.rust-lang.org/)
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 
@@ -46,5 +46,5 @@
 
 ### Stats:
 
-<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonymj76&show_icons=true&count_private=true&theme=dark" />
-<img align="left" alt"Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymj76&theme=dark&show_icons=true" />
+<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wizzywit&show_icons=true&count_private=true&theme=dark" />
+<img align="left" alt"Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizzywit&theme=dark&show_icons=true" />
