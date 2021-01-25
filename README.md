@@ -1,7 +1,7 @@
 ### Hi there 👋,I am [Wisdom Praise](https://wizzywit.github.io)
 
 
-## I am a Full Stack Developer, a team player and a colaborator, that builds scalable application
+## I am a Graduate Computer Engineer from Akwaibom,Nigeria, Full Stack Developer, a team player and a colaborator, that builds scalable application
 - 🔭 I’m currently working on mythra project!
 - 🌱 I’m currently learning everything Rust
 - 👯 I’m looking to collaborate with other Rustaceans
@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
-[<img align="left" alt="go" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />](https://www.rust-lang.org/)
+[<img align="left" alt="rust" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://www.rust-lang.org/)
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 
