@@ -1,7 +1,7 @@
 ### Hi there 👋,I am [Wisdom Praise](https://wizzywit.github.io)
 
 
-## I am a Graduate (Computer Engineer) from Akwaibom, Nigeria, Full Stack Developer, a team player and a colaborator, that builds scalable application
+## I am a Graduate (Computer Engineering), Full Stack Developer, a team player and a colaborator, that builds scalable application
 - 🔭 I’m currently working on mythra project!
 - 🌱 I’m currently learning everything Rust
 - 👯 I’m looking to collaborate with other Rustaceans
