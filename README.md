@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](anthony.anonde.dev)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](wisdom.praise.dev)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Wizzywit)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wisdom-praise-b-eng-2060b7166/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/wizzywit968)
@@ -46,5 +46,5 @@
 
 ### Stats:
 
-<img align="left" alt="Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wizzywit&show_icons=true&count_private=true&theme=dark" />
-<img align="left" alt"Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizzywit&theme=dark&show_icons=true" />
+<img align="left" alt="Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wizzywit&show_icons=true&count_private=true&theme=dark" />
+<img align="left" alt"Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizzywit&theme=dark&show_icons=true" />
