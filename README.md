@@ -43,8 +43,3 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/mvdan/sh)
 
 ---
-
-### Stats:
-
-<img align="left" alt="Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wizzywit&show_icons=true&count_private=true&theme=dark" />
-<img align="left" alt"Wisdom's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizzywit&theme=dark&show_icons=true" />
