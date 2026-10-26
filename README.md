@@ -2,10 +2,10 @@
 
 
 ## I am a Graduate (Computer Engineering), Full Stack (Frontend Heavy) Developer, a team player and a colaborator, that builds scalable application
-- 🔭 I’m currently working on mythra project!
-- 🌱 I’m currently learning everything Rust
+- 🔭 I’m currently working on odudu project!
+- 🌱 I’m currently learning everything Rust and Agentic AI
 - 👯 I’m looking to collaborate with other Rustaceans
-- 🥅 2021 Goals: Contribute more to Open Source projects, and begin my devOps journey 
+- 🥅 2026 Goals: Build Odudu to the point people actively use it 
 - ⚡ Fun fact: I love to play pes and fifa hit me up anytime i will play with you
 
 ### Connect with me:
